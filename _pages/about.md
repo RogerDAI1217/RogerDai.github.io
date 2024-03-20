@@ -24,16 +24,16 @@ Special thanks to Prof. [Hao Su](https://cseweb.ucsd.edu/~haosu/), whose talk at
     <p><a href="https://github.com/BillyXYB/FaceDNeRF">project page</a> | <a href="https://arxiv.org/abs/2306.00783">paper</a> | <a href="https://youtu.be/paxqlzW7z1Q">video</a></p>
   </div>
 </div>
-      
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="flex: 0 0 30%; margin-right: 20px;">
-    <img src="/images/Cover-FaceDNeRF.png" style="width: 100%;">
+  <div style="width: 30%; margin-right: 20px;">
+    <img src="/images/Cover-FLNeRF.gif" style="width: 100%;">
   </div>
-  <div style="flex: 1;">
-    <h3>FaceDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models</h3>
-    <p><em>NeurIPS, 2023</em></p>
-    <p><strong>Hao Zhang*, Yanbo Xu*, Tianyuan Dai*, Yu-Wing Tai, Chi-Keung Tang (*equal contribution)</p>
-    <p><a href="https://github.com/BillyXYB/FaceDNeRF">project page</a> | <a href="https://arxiv.org/abs/2306.00783">paper</a> | <a href="https://youtu.be/paxqlzW7z1Q">video</a></p>
+  <div style="width: 70%;">
+    <h3>FLNeRF: 3D Facial Landmarks Estimation in Neural Radiance Fields</h3>
+    <p><em>Champion, IEEE (Hong Kong) Computational Intelligence Chapter Final Year Project Competition 2022-2023</em></p>
+    <p><strong>Hao Zhang*, Tianyuan Dai*, Yu-Wing Tai, Chi-Keung Tang (*equal contribution)</p>
+    <p><a href="https://arxiv.org/abs/2211.11202">paper</a> | <a href="https://github.com/ZHANG1023/FLNeRF">video</a></p>
   </div>
 </div>
 
