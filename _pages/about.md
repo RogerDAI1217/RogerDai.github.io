@@ -14,7 +14,7 @@ Special thanks to Prof. [Hao Su](https://cseweb.ucsd.edu/~haosu/), whose talk at
 Publications
 ======
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="width: 30%; margin-right: 20px;">
     <img src="/images/Cover-FaceDNeRF.gif" style="width: 100%;">
   </div>
@@ -28,7 +28,7 @@ Publications
 
 ---
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="width: 30%; margin-right: 20px;">
     <img src="/images/Cover-FLNeRF.gif" style="width: 100%;">
   </div>
