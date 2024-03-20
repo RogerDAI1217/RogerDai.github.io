@@ -19,6 +19,6 @@ Remarkably, this mirrors the academic research process, where every setback is a
 Basketball
 ======
 I enjoy playing basketball and watching basketball games. At Stanford, I enjoy following the NCAA tournaments.
-<img src="/images/basketball1.png" style="width: 100%;">
+<img src="/images/basketball1.png" style="width: 50%; display: block; margin: auto;">
 
 Furthermore, I have been a fan of my hometown basketball team, the [Qingdao Eagles](https://en.wikipedia.org/wiki/Qingdao_Eagles), for over 10 years. I deeply admire players such as Guang Li, Chengyu Zhang, Qingming Wang, and Ruize Wang, whose careers exemplify the principle that practice makes perfect.
