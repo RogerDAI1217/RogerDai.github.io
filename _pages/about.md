@@ -14,6 +14,18 @@ Special thanks to Prof. [Hao Su](https://cseweb.ucsd.edu/~haosu/), whose talk at
 ## Publications
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="width: 30%; margin-right: 20px;">
+    <img src="/images/Cover-FaceDNeRF.gif" style="width: 100%;">
+  </div>
+  <div style="width: 70%;">
+    <h3>FaceDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models</h3>
+    <p><em>NeurIPS, 2023</em></p>
+    <p><strong>Hao Zhang*, Yanbo Xu*, Tianyuan Dai*, Yu-Wing Tai, Chi-Keung Tang (*equal contribution)</p>
+    <p><a href="https://github.com/BillyXYB/FaceDNeRF">project page</a> | <a href="https://arxiv.org/abs/2306.00783">paper</a> | <a href="https://youtu.be/paxqlzW7z1Q">video</a></p>
+  </div>
+</div>
+      
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 30%; margin-right: 20px;">
     <img src="/images/Cover-FaceDNeRF.png" style="width: 100%;">
   </div>
@@ -25,15 +37,4 @@ Special thanks to Prof. [Hao Su](https://cseweb.ucsd.edu/~haosu/), whose talk at
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 30%; margin-right: 20px;">
-    <img src="/images/Cover-FaceDNeRF.gif" style="width: 100%;">
-  </div>
-  <div style="width: 70%;">
-    <h3>FaceDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models</h3>
-    <p><em>NeurIPS, 2023</em></p>
-    <p><strong>Hao Zhang*, Yanbo Xu*, Tianyuan Dai*, Yu-Wing Tai, Chi-Keung Tang (*equal contribution)</p>
-    <p><a href="https://github.com/BillyXYB/FaceDNeRF">project page</a> | <a href="https://arxiv.org/abs/2306.00783">paper</a> | <a href="https://youtu.be/paxqlzW7z1Q">video</a></p>
-  </div>
-</div>
 ---
