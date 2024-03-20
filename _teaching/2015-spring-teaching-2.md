@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "CS231A Computer Vision, From 3D Reconstruction to Recognition"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Course Assistance"
+permalink: /teaching/2024-spring-teaching
+venue: "Stanford University"
+date: 2024 Spring Quarter
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Instructor: [Jeannette Bohg](https://web.stanford.edu/~bohg/), [Silvio Savarese](https://wayback.stanford.edu/was/20180314115226mp_/http://cvgl.stanford.edu/silvio/)
