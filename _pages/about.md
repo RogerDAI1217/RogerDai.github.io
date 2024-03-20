@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
+---
 
 I'm Tianyuan (Roger) Dai, a Master's student in Computer Science at Stanford University, affiliated with the [Stanford Vision and Learning Lab](https://svl.stanford.edu/). I have the privilege of conducting cutting-edge research in embodied AI and robotic learning, advised by Prof. [Fei-Fei Li](https://engineering.stanford.edu/people/fei-fei-li). Previously, I obtained a Bachelor's degree in Computer Science and Mathematics at the Hong Kong University of Science and Technology (HKUST), where I worked on 3D and multimodal generation, advised by Prof. [Chi-Keung TANG](https://cse.hkust.edu.hk/admin/people/faculty/profile/cktang) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/). 
 
