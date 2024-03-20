@@ -25,9 +25,9 @@ author:
   name             : "Tianyuan (Roger) Dai"
   pronouns         : # example: "she/her"  
   bio              : |
-                      MSCS Student at Stanford University
-                      Research Focus: Embodied AI
-                      Stanford Vision and Learning Lab (SVL)
+                      <p>MSCS Student at Stanford University</p>
+                      <p>Research Focus: Embodied AI</p>
+                      <p>Stanford Vision and Learning Lab (SVL)</p>
   location         : "Stanford, CA, USA"
   employer         : "Stanford University"
   uri              : # URL
