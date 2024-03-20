@@ -15,4 +15,3 @@ Chess, akin to a civilized form of warfare, is about the pursuit of victory—so
 only one can win in a match. In defeat, we extend courteous congratulations to our adversaries, engage in reflective analysis of our gameplay, and strategize on improvement for future wins. 
 Remarkably, this mirrors the academic research process, where every setback is a stepping stone to future success.
 
-<img src='/images/500x300.png'>
