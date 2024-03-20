@@ -43,7 +43,8 @@ layout: default
           <p>Course Assistance, <i>{{ page.venue }}</i>, {{ page.course_quarter }}</p>
           {% if page.instructors %}
             <p>Instructors: {{ page.instructors | markdownify }}</p>
-          {% endif %}   
+          {% endif %} 
+        {% endif %}
         </header>
       {% endunless %}
 
