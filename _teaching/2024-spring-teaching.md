@@ -1,7 +1,7 @@
 ---
 title: "CS231A Computer Vision, From 3D Reconstruction to Recognition"
 collection: teaching
-permalink: /teaching/2024-spring-teaching
+external_url: "[https://course.website](https://web.stanford.edu/class/cs231a/)"
 ---
 
 Course Assistance, Stanford University, 2024 Spring Quarter
