@@ -11,7 +11,8 @@ I'm Tianyuan (Roger) Dai, a Master's student in Computer Science at Stanford Uni
 
 Special thanks to Prof. [Hao Su](https://cseweb.ucsd.edu/~haosu/), whose talk at HKUST in my final undergraduate semester inspired me to transition from computer vision to embodied AI. I am also deeply grateful to [Josiah Wong](https://jdw.ong/), [Yunfan Jiang](https://yunfanj.com/), [Chen Wang](https://www.chenwangjeremy.net/), and [Ruohan Zhang](https://ai.stanford.edu/~zharu/) for their invaluable advice on both research and life.
 
-## Publications
+Publications
+======
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="width: 30%; margin-right: 20px;">
