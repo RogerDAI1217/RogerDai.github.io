@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: Hobbies
 permalink: /portfolio/
 author_profile: true
 ---
