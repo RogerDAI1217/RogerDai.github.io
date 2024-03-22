@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-<h1>Chess</h1> 
+# Chess
 
 I am a seasoned chess enthusiast with 7 years of professional training under my belt. My skills in this strategic game and numerous victories in prestigious national tournaments 
 earned me the title of National Second-Level Athlete in Chess (国家二级运动员) and Chess Association Master (棋协大师) during my primary school years. Even after deciding not to pursue a full-time career in chess, I continue to practice chess 
@@ -16,7 +16,7 @@ Chess, akin to a civilized form of warfare, is about the pursuit of victory—so
 only one can win in a match. In defeat, we extend courteous congratulations to our adversaries, engage in reflective analysis of our gameplay, and strategize on improvement for future wins. 
 Remarkably, this mirrors the academic research process, where every setback is a stepping stone to future success.
 
-<h1>Basketball</h1>
+# Basketball
 
 I enjoy playing basketball and watching basketball games. At Stanford, I enjoy following the NCAA tournaments.
 <img src="/images/basketball1.png" style="width: 50%; display: block; margin: auto;">
